@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Profile Settings</string>
+    <string name="profile_logo">profile logo</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="requests_1">Requests(1)</string>
+    <string name="offerings_0">Offerings(0)</string>
+    <string name="recommends_0">Recommends(0)</string>
+    <string name="user_name">Somya</string>
+    <string name="created_time">19 hours ago</string>
+    <string name="option">delete option</string>
+    <string name="asking_for">Asking For :</string>
+    <string name="asking_for_value">Dance</string>
+    <string name="location">Location :</string>
+    <string name="location_value">Pune</string>
+    <string name="description">Best Dance classes in Pune</string>
+    <string name="comments">comments</string>
+    <string name="comment_value">0 Comments</string>
+    <string name="add_logo">add logo</string>
+</resources>

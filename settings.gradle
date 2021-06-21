@@ -1,0 +1,2 @@
+rootProject.name = "Profile Settings"
+include ':app'
